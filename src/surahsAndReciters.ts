@@ -5,7 +5,7 @@ recitersMap.set("AbdulBaset AbdulSamad [Mujawwad]", "abdulbasitmujawwad");
 recitersMap.set("AbdulBaset AbdulSamad [Murattal]", "abdulbasitmurattal");
 recitersMap.set("Mashary Rashid Alafasy", "alafasy");
 recitersMap.set("Ayman Swed", "aymanswed");
-recitersMap.set("Bandar Balila", "bandarbalila");
+recitersMap.set("Bandar Balila", "bandarbalila"); 
 recitersMap.set("Laayoun El Kouchi", "laayounelkouchi");
 recitersMap.set("Mohamed Al-Tablawi", "mohamedtablawi");
 recitersMap.set(

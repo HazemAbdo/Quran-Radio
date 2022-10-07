@@ -53,6 +53,10 @@
         "quranradio.reminderInterval": {
           "description": "interval(hour) to remind you of listening to Quran",
           "type": "number"
+        },
+        "quranradio.currentradio": {
+          "description": "current radio",
+          "type": "string"
         }
       }
     }
